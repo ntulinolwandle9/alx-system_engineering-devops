@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r 711 home 
+chmod -r 755 home 
